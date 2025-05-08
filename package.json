@@ -13,7 +13,7 @@
     "@ant-design/icons": "^6.0.0",
     "@types/node": "^22.15.17",
     "antd": "^5.25.0",
-    "framer-motion": "^12.10.4",
+    "motion": "^12.10.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
